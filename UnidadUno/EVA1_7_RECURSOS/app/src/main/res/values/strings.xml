@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MIS RECURSOS</string>
+
+    <string name="nom_lbl">Nombre:</string>
+    <string name="nom_hint">Introduce tu Nombre</string>
+    <string name="ape_lbl">Apellido:</string>
+    <string name="ape_hint">Introduce tu Apellido</string>
+    <string name="edad_lbl">Edad:</string>
+    <string name="edad_hint">Introduce tu Edad</string>
+
+    <string name="nom_lbl_en">Name:</string>
+    <string name="nom_hint_en">Your Name</string>
+    <string name="ape_lbl_en">Last name:</string>
+    <string name="ape_hint_en">Your Last name</string>
+    <string name="edad_lbl_en">Age:</string>
+    <string name="edad_hint_en">Your Age</string>
+</resources>
