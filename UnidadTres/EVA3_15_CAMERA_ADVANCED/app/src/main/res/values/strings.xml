@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EVA3_15_CAMERA_ADVANCED</string>
+    <string-array name="timer">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+</resources>
